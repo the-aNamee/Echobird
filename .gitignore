@@ -6,3 +6,5 @@ addons/*
 !addons/better_websocket
 token
 app_id
+app_id.txt
+token.txt
